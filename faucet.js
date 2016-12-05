@@ -1,0 +1,205 @@
+var s=[
+"http://www.globalfaucet.com/?r=1JowW1V7nfd1v7tgouedjspYmgMc6cTjhA",
+"http://www.goldfaucet.com/?r=1JowW1V7nfd1v7tgouedjspYmgMc6cTjhA",
+"http://www.free-bitcoin.org/?r=1JowW1V7nfd1v7tgouedjspYmgMc6cTjhA",
+"http://www.http://dailyfaucet.com/?r=1JowW1V7nfd1v7tgouedjspYmgMc6cTjhA",
+"http://www.starfaucet.com/?r=1JowW1V7nfd1v7tgouedjspYmgMc6cTjhA",
+"http://DreamFaucet.com/?r=1JowW1V7nfd1v7tgouedjspYmgMc6cTjhA",
+"http://www.crownfaucet.com/?r=1JowW1V7nfd1v7tgouedjspYmgMc6cTjhA",
+"http://freebitcoinworld.com/?r=1JowW1V7nfd1v7tgouedjspYmgMc6cTjhA",
+"http://starsbit.goldsday.com/?r=1JowW1V7nfd1v7tgouedjspYmgMc6cTjhA",
+"http://maddoglion.com/?r=1JowW1V7nfd1v7tgouedjspYmgMc6cTjhA",
+"http://fieldbitcoins.com/?ref=qh0nz6w2260924",
+"http://www.fautsy.com/?r=1JowW1V7nfd1v7tgouedjspYmgMc6cTjhA",
+"https://bitcoinmonster.win/?r=1JowW1V7nfd1v7tgouedjspYmgMc6cTjhA",
+"https://click4bit.co.in/1JowW1V7nfd1v7tgouedjspYmgMc6cTjhA",
+"http://free-bitc0in.com/?r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://newbitcoinface.com/?r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://www.pentafaucet.com/?r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://www.oneclickhere.com/?r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://bitcoinan.ga/faucet2/index.php?r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://satoshiparty.org/?r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://worldofsatoshi.ga/faucet2/faucetinabox-r66/index.php?r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://www.fautsy.com/?r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://bitscatching.pw/?r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://getyourbitcoins.pw/?r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://bitcoinisfuture.pw/?r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://sihl.website/?r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://huefaucet.xyz/?r=1JowW1V7nfd1v7tgouedjspYmgMc6cTjhA",
+"http://bitlucky.io/?r=1JowW1V7nfd1v7tgouedjspYmgMc6cTjhA",
+"http://bituniverse.net/?r=1JowW1V7nfd1v7tgouedjspYmgMc6cTjhA",
+"http://btcfreebies.com/?r=1JowW1V7nfd1v7tgouedjspYmgMc6cTjhA",
+"http://bitcoin.cryptocrawl.in/?r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://bitcoland.net/?r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://in-palmer.ru/faucet/?r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://www.bitcoinvip.club/?r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://free-bitc0in.com/?r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://cristalbit.xyz/?r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://freebitco.pw/?r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://allcoin.pw/?r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://blackbit.xyz/?r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://getcoin.pw/?r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://bitcoin.cryptocrawl.in/?r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://www.pentafaucet.com/?r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://www.lemonbitcoin.com/faucet/index.php?r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://satoshiparty.org/?r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://lotofsatoshi.com/?r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://www.fautsy.com/?r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://www.satoshimachine.com/?r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://www.satoshibox.club/?r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://www.satoshiworld.club/?r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://www.bitcoinearnings.club/?r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://www.bitcoinvip.club/?r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://robots-btc.info/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://conocoin.com/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://freebitcoinfree.xyz/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://hubbitcoin.info/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://www.boxfaucet.net/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://kingmaxbitcoin.com/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://10-24.club/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://in-palmer.ru/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://profit-seeking.ru/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://www.bitcoinearnings.club/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://orange-stripes.com/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://bitcoland.net/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://manycoins.ru/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://www.getbitcoin.xyz/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://coin.themetheme.net/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://bitcoinwin.top/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://www.fallbitcoin.info/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://satoshik.xyz/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://faucet.bitcoinbarry.com/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://olgafaucet.ru/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://bitcedo.com/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://megafaucetbox.xyz/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://mangobtc.ru/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://bananbtc.ru/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://ananascoin.ru/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://www.boxfaucet.com/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://colorbtc.xyz/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://bestfaucet.ru/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://artemiofaucet.ru/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://www.cryptroller.com/faucets/black/bitcoin/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://www.cryptroller.com/faucets/bitcoin/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://leakybitcoins.com/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://leakybitcoins2.com/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://bitcoinlatino.online/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://www.fautsy.com/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://golbtc.website/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://faucet.e-lima.com/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://faucetnaranja.online/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://getbitcoin.website/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://www.oneclickhere.com/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://bitcoin.cryptocrawl.in/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://faucetwin.xyz/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://1.perikotfaucet.website/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://hotbtc.su/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://www.bitdroplets.com/btc60/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://www.bitcoinsclub.top/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://www.satoshicrown.xyz/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://www.dorcash.com/bitcoin-faucet/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://satoshi.cool/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://www.bitcoingratis.pw/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://free-bitcoins.net/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://kiemtientructuyen.top/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://free-bitcoins.top/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://bitcoinsfree.top/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://apuestoalrock.com.ve/PolyFaucet/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://free-bit.biz/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://claimfreebitcoin.click/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://ultrabitcoin.xyz/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://bitcoinshowers.com/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://www.freesatoshi.club/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://www.faucetbtc.top/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://www.satoshifaucet.space/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://www.bitcoindiamond.club/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://www.bitcoin4free.club/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://www.satoshiworld.club/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://www.satoshibox.club/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://www.bitcoinvip.club/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://chiripabits.com.ve/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://horseracing.space/chevaux/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://apuestoalrock.com.ve/RamonaFaucet/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://www.predimania.com/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://satoshiwaves.com/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://www.earnvm.com/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://faucetclick.xyz/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://freebitconsatoshi.ml/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://bitcoinan.ga/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://myfreebit.co/home.php?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://bitconsatoshi.xyz/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://fastsatoshi.pro/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://clickbitcoin.su/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://satoshipanda.website/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://bit-coinfaucet.com/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://www.givemefreebitco.in/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://www.bitcoinsbitcoins.net/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://www.topfaucet.net/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://www.btcfaucetpro.com/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://www.topfaucet.online/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://www.250satoshi.xyz/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://www.coinfreelancer.com/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://goodfaucet.info/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://www.bitsgood.com/fb/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://faucetdelabtc.website/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://earnfreebitco.in/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://www.freebitcoinfaucet.co.uk/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://www.freefaucetbitco.in/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://www.bitcoinfaucetpro.com/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://www.freebitcoins4.me/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://www.peakfaucet.com/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://bitcoin-satoshi.info/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://www.bestfaucet.pro/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://satoshifreefaucet.ga/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://checksatoshi.ga/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://www.topfaucet.info/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://www.bitcoinfaucet.pro/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://www.btcfaucet.xyz/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://www.givemefreebitcoins.today/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://www.bitcoinfree.space/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://bitcoin-catcher.com/faucet/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://winbitcoin.info/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://wesbitcoin.eu/?r=r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+"http://www.bitcoindiamond.club/?r=18XbeqQQSTzmkD37zcZfwT8bSE18gFgVEG",
+];
+var adr,i,x=0,c=s.length;
+function address() {
+adr=prompt('Enter your bitcoin address:');
+s=s.map(function(x){
+  return x.indexOf("a=") != -1 ? x + adr : x; 
+});
+}
+function next(){
+x+=1;
+if (x>c-1)
+  {
+  x=0;
+  }
+changeSrc();
+}
+function prev(){
+x-=1;
+if (x<=0)
+  {
+  x=c-1;
+  }
+changeSrc();
+}
+function jumpTo() {
+i=prompt("Enter a number to skip to that faucet.");
+x=0;
+while (i!=x) {
+  if (x>c-2) {
+  break;
+  }
+  x+=1;
+}
+changeSrc();
+}
+function newTab() {
+var win=window.open(document.getElementById("fm").src, '_blank');
+win.focus();
+}
+function changeSrc() {
+document.getElementById("fm").src=s[x];
+}
